@@ -59,7 +59,7 @@
             bindings = <
 &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4             &trans    &trans    &trans    &trans     &trans    &trans
 &trans     &kp EXCL     &kp AT       &kp HASH     &kp DLLR     &kp PERCENT              &kp CARET &kp AMPS  &kp ASTRK &kp LPAR   &kp RPAR  &kp BSPC
-&trans     &kp CLCK     &kp LALT     &kp LCTRL    &kp LSHFT    &trans                   &kp MINUS &kp EQUAl &kp SEMI  &kp LBKT   &kp RBKT  &kp NON_US_BSLH
+&trans     &kp CLCK     &kp LALT     &kp LCTRL    &kp LSHFT    &trans                   &kp MINUS &kp EQUAL &kp SEMI  &kp LBKT   &kp RBKT  &kp NON_US_BSLH
 &trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans  &trans   &trans  &kp UNDER &kp PLUS  &kp COLON &kp LBRC   &kp RBRC  &trans
                         &trans       &trans       &trans       &trans  &trans   &trans  &trans    &trans    &trans    &trans
             >;
